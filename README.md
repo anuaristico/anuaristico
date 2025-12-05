@@ -1,13 +1,5 @@
 <h2>Hi, I'm Josué Anuar! Feel at home.</h2>
 
-*/
-<a href="https://github.com/anuaristico/mypersonalletterboxd">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuaristico&repo=mypersonalletterboxd&theme=maroongold" />
-</a>
-<a href="https://github.com/anuaristico/">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuaristico&layout=compact&theme=maroongold&card_width=320" />
-</a> /*
-
 <br><br>
 
 <p>🌱 I’m currently learning...</p>
