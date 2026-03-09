@@ -9,7 +9,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
 </div>
-
+<br><br>
 <p>🔎 Frameworks, technologies and others </p>
 <div style="display: inline_block">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -19,9 +19,7 @@
   <img align="center" alt="Linux" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
   <img align="center" alt="Ubuntu" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg">
 </div>
-
 <br><br>
-
 <p>📫 <strong>How to reach me:</strong> josueanuarm@gmail.com</p>
 <p>😄 <strong>Pronouns:</strong> he/his</p>
 <p>⚡ <strong>Fun fact:</strong> I love Resident Evil franchise</p>
