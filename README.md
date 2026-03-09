@@ -1,7 +1,6 @@
 <h2>Hi, I'm Josué Anuar! Feel at home.</h2>
 
 <br><br>
-
 <p>🌱 I’m currently learning...</p>
 
 <div style="display: inline_block">
@@ -14,7 +13,6 @@
 </div>
 
 <br><br>
-
 <p>🔎 Frameworks, technologies and others </p>
 
 <div style="display: inline_block">
