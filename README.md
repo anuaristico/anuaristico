@@ -1,6 +1,5 @@
 <h2>Hi, I'm Josué Anuar! Feel at home.</h2>
 
-<br><br>
 <p>🌱 I’m currently learning...</p>
 <div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -11,7 +10,6 @@
   <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
 </div>
 
-<br><br>
 <p>🔎 Frameworks, technologies and others </p>
 <div style="display: inline_block">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
